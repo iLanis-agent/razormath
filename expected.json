@@ -1,0 +1,113 @@
+[
+  {
+    "fn": "swapTruth",
+    "args": [
+      5
+    ],
+    "expected": "At 5 shaves a week, the labeled 5-to-7-shave cartridge norm means a swap every 1.0 to 1.4 weeks - the pull you feel is the cartridge asking to retire."
+  },
+  {
+    "fn": "swapTruth",
+    "args": [
+      3
+    ],
+    "expected": "At 3 shaves a week, the labeled 5-to-7-shave cartridge norm means a swap every 1.7 to 2.3 weeks - the pull you feel is the cartridge asking to retire."
+  },
+  {
+    "fn": "swapTruth",
+    "args": [
+      7
+    ],
+    "expected": "At 7 shaves a week, the labeled 5-to-7-shave cartridge norm means a swap every 0.7 to 1.0 weeks - the pull you feel is the cartridge asking to retire."
+  },
+  {
+    "fn": "swapTruth",
+    "args": [
+      1
+    ],
+    "expected": "At 1 shave a week, the labeled 5-to-7-shave cartridge norm means a swap every 5.0 to 7.0 weeks - the pull you feel is the cartridge asking to retire."
+  },
+  {
+    "fn": "swapTruth",
+    "args": [
+      2
+    ],
+    "expected": "At 2 shaves a week, the labeled 5-to-7-shave cartridge norm means a swap every 2.5 to 3.5 weeks - the pull you feel is the cartridge asking to retire."
+  },
+  {
+    "fn": "yearTruth",
+    "args": [
+      5
+    ],
+    "expected": "5 shaves a week is 260.0 shaves a year, and the labeled norm prices that at 37.1 to 52.0 cartridges a year."
+  },
+  {
+    "fn": "yearTruth",
+    "args": [
+      3
+    ],
+    "expected": "3 shaves a week is 156.0 shaves a year, and the labeled norm prices that at 22.3 to 31.2 cartridges a year."
+  },
+  {
+    "fn": "yearTruth",
+    "args": [
+      7
+    ],
+    "expected": "7 shaves a week is 364.0 shaves a year, and the labeled norm prices that at 52.0 to 72.8 cartridges a year."
+  },
+  {
+    "fn": "yearTruth",
+    "args": [
+      1
+    ],
+    "expected": "1 shave a week is 52.0 shaves a year, and the labeled norm prices that at 7.4 to 10.4 cartridges a year."
+  },
+  {
+    "fn": "costTruth",
+    "args": [
+      18,
+      8
+    ],
+    "expected": "An $18.00 8-pack puts $2.25 in each cartridge, so a shave costs 32.1 to 45.0 cents - the handle was free for a reason."
+  },
+  {
+    "fn": "costTruth",
+    "args": [
+      12.99,
+      4
+    ],
+    "expected": "A $12.99 4-pack puts $3.25 in each cartridge, so a shave costs 46.4 to 65.0 cents - the handle was free for a reason."
+  },
+  {
+    "fn": "costTruth",
+    "args": [
+      24,
+      10
+    ],
+    "expected": "A $24.00 10-pack puts $2.40 in each cartridge, so a shave costs 34.3 to 48.0 cents - the handle was free for a reason."
+  },
+  {
+    "fn": "costTruth",
+    "args": [
+      8,
+      4
+    ],
+    "expected": "An $8.00 4-pack puts $2.00 in each cartridge, so a shave costs 28.6 to 40.0 cents - the handle was free for a reason."
+  },
+  {
+    "fn": "costTruth",
+    "args": [
+      11,
+      2
+    ],
+    "expected": "An $11.00 2-pack puts $5.50 in each cartridge, so a shave costs 78.6 to 110.0 cents - the handle was free for a reason."
+  },
+  {
+    "fn": "costTruth",
+    "args": [
+      82,
+      12
+    ],
+    "expected": "An $82.00 12-pack puts $6.83 in each cartridge, so a shave costs 97.6 to 136.7 cents - the handle was free for a reason."
+  }
+]
